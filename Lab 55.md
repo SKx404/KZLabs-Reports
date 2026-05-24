@@ -19,7 +19,7 @@ https://kzlabs.com/55.php?search=sk404%3C%2Fscript%3E%3Csvg+onload%3D%22prompt%2
 3. This confirms that arbitrary javascript supplied via the parameter "search" is executed in the browser.
 
 
-## Proof of Concept Request
+## Proof of Concept
 
 <img width="2982" height="1696" alt="image" src="https://github.com/user-attachments/assets/3e5e8989-338e-4334-8348-d1c3a26022f3" />
 
