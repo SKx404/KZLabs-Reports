@@ -16,7 +16,7 @@ https://kzlabs.com/61.php
 
 2. Click on write article.
 
-3. In the Bondy field, click on HTML and enter this payload "><img src=x onerror=confirm("XSS")> and then click on publish.
+3. In the Body field, click on HTML and enter this payload "><img src=x onerror=confirm("XSS")> and then click on publish.
 
 4. You will see an alert box is getting triggered.
 
