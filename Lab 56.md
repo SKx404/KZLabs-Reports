@@ -5,7 +5,7 @@ Reflected Cross-Site Scripting (XSS) in "p" Parameter
 I found a Reflected Cross-Site Scripting vulnerability in the parameter "p" in following url
 
 ## Affected URL
-https://kzlabs.com/56.php?p=
+https://kzlabs.com/56.php
 
 
 ## Steps to Reproduce
