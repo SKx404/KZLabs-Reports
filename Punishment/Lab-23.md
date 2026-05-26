@@ -5,11 +5,11 @@ Reflected Cross-Site Scripting (XSS) in "email" parameter
 I found a Reflected Cross-Site Scripting vulnerability in the parameter "email" in following url
 
 ## Affected URL
-https://kzlabs.com/punishment/22.php
+https://kzlabs.com/punishment/23.php
 
 
 ## Steps to Reproduce
-1. Open the following URL in a browser: https://kzlabs.com/punishment/22.php?email="><ImG src=x onerror=\u0061lert("XSS")>
+1. Open the following URL in a browser: https://kzlabs.com/punishment/23.php?email="><ImG src=x onerror=\u0061lert("XSS")>
 2. You will see a javascript alert box is getting triggered.
 3. This confirms that arbitrary javascript is executed in the browser.
 
