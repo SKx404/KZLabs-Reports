@@ -13,8 +13,6 @@ https://kzlabs.com/6.php
 https://kzlabs.com/6.php?title=sk404%3C/title%3E%3CImG%20src=x%20onerror=\u0061lert(%22XSS%22)%3E 
 2. You will see a javascript alert box is getting triggered.
 3. This confirms that arbitrary javascript supplied is executed in the browser.
-2. You wild see a javascript alert box is getting triggered.
-3. This confirms that arbitrary javascript is executed in the browser.
 
 
 ## Proof of Concept Request
