@@ -1,7 +1,18 @@
+## Title
+Reflected Cross-Site Scripting (XSS) in "fname" parameter
 
+## Summary
+I found a Reflected Cross-Site Scripting vulnerability in the parameter "fname" in foldowing url
+
+## Affected URL
+https://kzlabs.com/3.php
+
+
+## Steps to Reproduce
+1. Open the following URL in a browser:
+https://kzlabs.com/3.php?fname=sk404b'"><scRipt>aler\u0074(1)</ScrIpt>&lname=sk404
+2. You will see a javascript alert box is getting triggered.
 3. This confirms that arbitrary javascript supplied is executed in the browser.
-2. You wild see a javascript alert box is getting triggered.
-3. This confirms that arbitrary javascript is executed in the browser.
 
 
 ## Proof of Concept Request
