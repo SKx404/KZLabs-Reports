@@ -10,7 +10,7 @@ https://kzlabs.com/20.php
 
 ## Steps to Reproduce
 1. Login to the application
-2. Enter the following payload <scRipt>aler\u0074('XSS')</ScrIpt> in "Bio" field and click on post comment
+2. Enter the following payload <scRipt>aler\u0074('XSS')</ScrIpt> in "Post Title, Except, Post comment" fields and click on post comment
 2. You will see a javascript alert box is getting triggered.
 3. This confirms that arbitrary javascript supplied is executed in the browser.
 
