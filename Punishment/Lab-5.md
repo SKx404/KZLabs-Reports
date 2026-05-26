@@ -14,7 +14,7 @@ https://kzlabs.com/punishment/5.php?fname=%22%3E%3CImG+src%3Dx+onerror%3D%5Cu006
 
 2. You will see a javascript alert box is getting triggered.
 
-3. This confirms that arbitrary javascript supplied via the parameter "p" is executed in the browser.
+3. This confirms that arbitrary javascript supplied is executed in the browser.
 
 
 ## Proof of Concept Request
