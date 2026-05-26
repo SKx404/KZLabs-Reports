@@ -13,8 +13,6 @@ https://kzlabs.com/10.php
 https://kzlabs.com/10.php?fname=sk404&lname=sk404b%27%22%3E%3CscRipt%3Ealer\u0074(1)%3C/ScrIpt%3E 
 2. You will see a javascript alert box is getting triggered.
 3. This confirms that arbitrary javascript supplied is executed in the browser.
-2. You wild see a javascript alert box is getting triggered.
-3. This confirms that arbitrary javascript is executed in the browser.
 
 
 ## Proof of Concept Request
