@@ -12,7 +12,7 @@ https://kzlabs.in/603.php
 
 ## Steps to Reproduce
 1. Open the following url https://kzlabs.in/603.php
-2. Navigate to Webhooks section and enter burp collaborator payload in Run Health Check
+2. Enter burp collaborator payload in Run Health Check
 3. You will see source IP address of the web application
 
 
